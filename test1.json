@@ -6,7 +6,7 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "line1": "This is line 1"
-
+    "line1": "This is line 1",
+    "second_commit": "This is the second commit in Branch1"
 }
 
